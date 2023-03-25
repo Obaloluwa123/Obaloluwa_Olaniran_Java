@@ -1,4 +1,4 @@
-package com.company.recordstoreapi;
+package com.company.authorizationservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
